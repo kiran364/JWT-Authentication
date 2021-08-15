@@ -42,5 +42,5 @@ function ensuretoken(req, res, next) {
 }
 
 app.listen(3000, () => {
-    console.log("App Listening On Port 3000!");
+    console.log("Server Listening On Port 3000!");
 });
